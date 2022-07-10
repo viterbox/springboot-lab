@@ -13,7 +13,7 @@ public class Greeting{
         return id;
     }
 
-    public getContent(){
+    public String getContent(){
         return content;
     }
 }
